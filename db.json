@@ -1,0 +1,7 @@
+{
+  "names": [
+    { "id": 1, "name": "Hina" , "position": "Teacher"},
+    { "id": 2, "name": "Rui" , "position": "Cook"},
+    { "id": 3, "name": "Fuji", "position": "Writer" }
+  ]
+}
