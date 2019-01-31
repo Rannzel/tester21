@@ -3,6 +3,11 @@
     { "id": 1, "name": "Hina" , "position": "Teacher"},
     { "id": 2, "name": "Rui" , "position": "Cook"},
     { "id": 3, "name": "Fuji", "position": "Writer" },
-    { "id": 4, "name": "Rannzel", "position": "Hina Stealer" }
+    { "id": 4, "name": "Rannzel", "position": "Hina Stealer" },
+    { "id": 5, "name": "Donne", "position": "Hansum" },
+    { "id": 6, "name": "Renzo", "position": "Kpop Lov3r" },
+    { "id": 7, "name": "Daryl", "position": "Big Boi" },
+    { "id": 8, "name": "Jj", "position": "Kpop Lov3r pt 2" },
+    { "id": 9, "name": "Jason", "position": "Ricardo Milos #1 Fan" }
   ]
 }
